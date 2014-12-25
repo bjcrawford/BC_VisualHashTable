@@ -1,7 +1,7 @@
 Hash Table Collision Visualization
 ==================================
 
-![](https://raw.github.com/bjcrawford/VisualHashTable/master/res/Screenshot.png)
+![](https://raw.github.com/bjcrawford/VisualHashTable/master/res/screenshot.png)
 
 This project was created as a project for a data structures course in the fall of 2013. This project visualizes insertions and collisions of random numbers into a hash table using linear probing to handle collisions.
 
